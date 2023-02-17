@@ -1,2 +1,1 @@
-# repositorio-modulo-2
-este es un repositorio del modulo 2 de Henry
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
